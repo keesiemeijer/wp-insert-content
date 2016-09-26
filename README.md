@@ -1,4 +1,4 @@
-# Insert Content Between HTML Paragraphs #
+# WP Insert Content #
 
 This plugin adds functions for use in your WordPress (child) theme to insert content between or after HTML paragraphs (`<p></p>`) in post content.
 

@@ -1,4 +1,4 @@
-=== Insert Content Between HTML Paragraphs ===
+=== WP Insert Content ===
 Contributors: keesiemeijer
 Requires at least: 4.1
 Tested up to: 4.5
