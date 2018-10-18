@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WP Insert Content
- * Version: 1.0.0
+ * Version: 1.0.1
  * Plugin URI: https://github.com/keesiemeijer/wp-insert-content
  * Description: PHP functions you can use in your (child) theme to insert content between or after HTML paragraphs.
  * Author: keesiemijer
