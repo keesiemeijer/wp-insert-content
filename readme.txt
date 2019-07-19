@@ -1,8 +1,8 @@
 === WP Insert Content ===
 Contributors: keesiemeijer
 Requires at least: 4.1
-Tested up to: 4.9
-Stable tag: 1.0.1
+Tested up to: 5.2
+Stable tag: 3.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -10,11 +10,12 @@ PHP functions you can use in your WordPress (child) theme to insert content betw
 
 == Description ==
 
-Use functions in your theme to insert content in a string containing HTML markup. The PHP [DOM module](https://secure.php.net/manual/en/book.dom.php) is used to find and add the content after paragraphs.
+Use functions in your theme to insert content in a string containing HTML markup. The PHP [DOM module](https://secure.php.net/manual/en/book.dom.php) is used to find and add the content between paragraphs.
 
 == Features ==
 * Insert content after the middle paragraph (default)
 * Insert content after a set number of paragraphs
+* Insert content after every number of paragraphs
 * Exclude nested paragraphs (default)
 * Inserted content can contain HTML as well. 
 
